@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="./banner.png" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Unity+Game+Developer;PC+Games+%7C+WebGL+%7C+Mobile+Games;7%2B+Years+Experience;Playable+Game+Prototypes;Available+for+Client+Work" />
 </p>
 
@@ -86,9 +82,6 @@ Unity • C# • WebGL • Android • iOS • Firebase • GitHub Pages
   <img src="https://github-readme-stats.vercel.app/api?username=VishambharSingh&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=VishambharSingh&theme=tokyonight&hide_border=true" />
-</p>
 
 
 ---
