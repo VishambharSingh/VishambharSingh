@@ -93,7 +93,7 @@ Unity • C# • WebGL • Android • iOS • Firebase • GitHub Pages
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VishambharSingh&theme=darkhub&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VishambharSingh&theme=github_dark" />
 </p>
 
 ---
