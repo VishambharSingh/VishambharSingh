@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Unity+Game+Developer;WebGL+%7C+Mobile+Games;5%2B+Years+Experience;Playable+Game+Prototypes;Available+for+Client+Work" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Unity+Game+Developer;PCGames+%7C+WebGL+%7C+Mobile+Games;7%2B+Years+Experience;Playable+Game+Prototypes;Available+for+Client+Work" />
 </p>
 
 <h2 align="center">🎮 Vishambhar Singh Ranawat 🎮</h2>
