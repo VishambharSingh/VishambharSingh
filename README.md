@@ -6,10 +6,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Unity+Game+Developer;WebGL+%7C+Mobile+Games;5%2B+Years+Experience;Playable+Game+Prototypes;Available+for+Client+Work" />
 </p>
 
-<h2 align="center">🎮 Vishambhar Ranawat</h2>
+<h2 align="center">🎮 Vishambhar Singh Ranawat 🎮</h2>
 
 <p align="center">
-Unity Game Developer specializing in <b>playable prototypes</b>, <b>WebGL builds</b>, and <b>mobile games</b>.  
+An Experienced Unity Game Developer with over 7 years of experience specializing in <b>playable prototypes</b>, <b>WebGL builds</b>, and <b>mobile games</b>.  
 I focus on clean mechanics, performance, and shipping real games.
 </p>
 
