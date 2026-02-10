@@ -26,7 +26,7 @@ I specialize in creating <b>immersive gameplay experiences</b>, performance-opti
     <img src="./game-previews/JurrasicLetters.png" />
   </a><br/>
   <b>Stack Slicer</b><br/>
-  <a href="https://vishambharsingh.github.io/stack-slicer-webgl/">▶ Play WebGL</a>
+  <a href="https://vishambharsingh.github.io/Jurrasic_Letters">▶ Play WebGL</a>
 </td>
 
 <td align="center" width="33%">
