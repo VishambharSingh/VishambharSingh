@@ -19,21 +19,28 @@ I specialize in creating <b>immersive gameplay experiences</b>, performance-opti
 
 ## 🎮 Featured Games (Play in Browser)
 
-<p align="center">
-  <a href="https://vishambharsingh.github.io/stack-slicer-webgl/">
-    <img src="https://img.shields.io/badge/▶%20Stack%20Slicer-WebGL-2ea44f?style=for-the-badge" />
-  </a>
-  <a href="https://vishambharsingh.github.io/food-tower-webgl/">
-    <img src="https://img.shields.io/badge/▶%20Food%20Tower%20Breaker-WebGL-ff9800?style=for-the-badge" />
-  </a>
-  <a href="https://vishambharsingh.github.io/helix-clone-webgl/">
-    <img src="https://img.shields.io/badge/▶%20Helix%20Clone-WebGL-2196f3?style=for-the-badge" />
-  </a>
-</p>
+<table align="center">
+<tr>
+<td align="center" width="33%">
+  <img src="./game-previews/stack-slicer.png" /><br/>
+  <b>Stack Slicer</b><br/>
+  <a href="https://vishambharsingh.github.io/stack-slicer-webgl/">▶ Play WebGL</a>
+</td>
 
-<p align="center">
-  <i>Instantly playable in browser — no downloads.</i>
-</p>
+<td align="center" width="33%">
+  <img src="./game-previews/food-tower.png" /><br/>
+  <b>Food Tower Breaker</b><br/>
+  <a href="https://vishambharsingh.github.io/food-tower-webgl/">▶ Play WebGL</a>
+</td>
+
+<td align="center" width="33%">
+  <img src="./game-previews/helix-clone.png" /><br/>
+  <b>Helix Clone</b><br/>
+  <a href="https://vishambharsingh.github.io/helix-clone-webgl/">▶ Play WebGL</a>
+</td>
+</tr>
+</table>
+
 
 
 <p align="center">
