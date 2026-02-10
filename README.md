@@ -22,19 +22,19 @@ I specialize in creating <b>immersive gameplay experiences</b>, performance-opti
 <table align="center">
 <tr>
 <td align="center" width="33%">
-  <img src="./game-previews/stack-slicer.png" /><br/>
+  <img src="./game-previews/JurrasicLetters.png" /><br/>
   <b>Stack Slicer</b><br/>
   <a href="https://vishambharsingh.github.io/stack-slicer-webgl/">▶ Play WebGL</a>
 </td>
 
 <td align="center" width="33%">
-  <img src="./game-previews/food-tower.png" /><br/>
+  <img src="./game-previews/JurrasicLetters.png" /><br/>
   <b>Food Tower Breaker</b><br/>
   <a href="https://vishambharsingh.github.io/food-tower-webgl/">▶ Play WebGL</a>
 </td>
 
 <td align="center" width="33%">
-  <img src="./game-previews/helix-clone.png" /><br/>
+  <img src="./game-previews/JurrasicLetters.png" /><br/>
   <b>Helix Clone</b><br/>
   <a href="https://vishambharsingh.github.io/helix-clone-webgl/">▶ Play WebGL</a>
 </td>
