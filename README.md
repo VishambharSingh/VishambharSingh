@@ -90,11 +90,12 @@ Unity • C# • WebGL • Android • iOS • Firebase • GitHub Pages
 
 ---
 
-## 🏆 Achievements
+## 🏆 Highlights
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VishambharSingh&theme=github_dark" />
-</p>
+- 7+ years of professional Unity development experience  
+- Shipped games across PC, Mobile, Web, and VR platforms  
+- Strong focus on performance, scalability, and clean gameplay systems  
+- Experience working with clients, studios, and cross-functional teams  
 
 ---
 
