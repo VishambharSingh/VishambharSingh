@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/banner.png" />
+  <img src="https://raw.githubusercontent.com/VishambharSingh/VishambharSingh/main/banner.png" />
 </p>
 
 <p align="center">
@@ -83,11 +83,11 @@ Unity • C# • WebGL • Android • iOS • Firebase • GitHub Pages
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VishambharSingh&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VishambharSingh&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -95,7 +95,7 @@ Unity • C# • WebGL • Android • iOS • Firebase • GitHub Pages
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=darkhub&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=VishambharSingh&theme=darkhub&no-frame=true&margin-w=10" />
 </p>
 
 ---
