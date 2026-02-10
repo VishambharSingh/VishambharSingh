@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VishambharSingh/VishambharSingh/main/banner.png" />
+  <img src="./banner.png" />
 </p>
 
 <p align="center">
@@ -87,8 +87,9 @@ Unity • C# • WebGL • Android • iOS • Firebase • GitHub Pages
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VishambharSingh&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=VishambharSingh&theme=tokyonight&hide_border=true" />
 </p>
+
 
 ---
 
