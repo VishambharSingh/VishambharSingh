@@ -20,10 +20,21 @@ I specialize in creating <b>immersive gameplay experiences</b>, performance-opti
 ## 🎮 Featured Games (Play in Browser)
 
 <p align="center">
-  🎯 <a href="https://USERNAME.github.io/stack-slicer-webgl/">Stack Slicer (WebGL)</a> •
-  🍔 <a href="https://USERNAME.github.io/food-tower-webgl/">Food Tower Breaker</a> •
-  🌀 <a href="https://USERNAME.github.io/helix-clone-webgl/">Helix Clone</a>
+  <a href="https://vishambharsingh.github.io/stack-slicer-webgl/">
+    <img src="https://img.shields.io/badge/▶%20Stack%20Slicer-WebGL-2ea44f?style=for-the-badge" />
+  </a>
+  <a href="https://vishambharsingh.github.io/food-tower-webgl/">
+    <img src="https://img.shields.io/badge/▶%20Food%20Tower%20Breaker-WebGL-ff9800?style=for-the-badge" />
+  </a>
+  <a href="https://vishambharsingh.github.io/helix-clone-webgl/">
+    <img src="https://img.shields.io/badge/▶%20Helix%20Clone-WebGL-2196f3?style=for-the-badge" />
+  </a>
 </p>
+
+<p align="center">
+  <i>Instantly playable in browser — no downloads.</i>
+</p>
+
 
 <p align="center">
   <i>All games are playable instantly — no downloads, no installs.</i>
